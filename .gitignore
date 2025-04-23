@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.env
+
+# Build directories
+/dist
+/build
+
+# Logs
+logs
+*.log
+
+# Google Service Account
+google-credentials.json
