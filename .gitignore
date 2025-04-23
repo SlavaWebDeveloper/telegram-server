@@ -1,6 +1,5 @@
 # Dependencies
 node_modules/
-.env
 
 # Build directories
 /dist
@@ -11,4 +10,3 @@ logs
 *.log
 
 # Google Service Account
-google-credentials.json
